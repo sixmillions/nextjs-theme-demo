@@ -27,3 +27,9 @@ module.exports = {
 ```cmd
 npm install next-theme
 ```
+
+## 其他
+
+[多主体切换](https://github.com/sixmillions/nextjs-theme-demo/tree/multi_theme)
+
+[使用其他的主题作为light/dark](https://github.com/sixmillions/nextjs-theme-demo/tree/diff_theme)
