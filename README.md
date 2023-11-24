@@ -27,3 +27,8 @@ module.exports = {
 ```cmd
 npm install next-theme
 ```
+
+## 使用别的主题当作light/dark
+
+1. garden -> light
+2. night -> dark
