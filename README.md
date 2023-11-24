@@ -27,3 +27,7 @@ module.exports = {
 ```cmd
 npm install next-theme
 ```
+
+## 多主题切换
+
+通过下拉框切换主题
